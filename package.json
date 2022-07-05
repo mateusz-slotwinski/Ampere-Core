@@ -1,0 +1,21 @@
+{
+  "name": "ampere-core",
+  "version": "1.0.0",
+  "description": "Simple game engine written in C++",
+  "scripts": {
+    "compile": "cmake build &&  cd build && make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ampere-Engine/Ampere-Core.git"
+  },
+  "keywords": [
+    "engine"
+  ],
+  "author": "Mateusz Słotwiński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ampere-Engine/Ampere-Core/issues"
+  },
+  "homepage": "https://github.com/Ampere-Engine/Ampere-Core#readme"
+}
